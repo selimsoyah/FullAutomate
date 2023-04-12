@@ -1,0 +1,3 @@
+[submodule "Automate"]
+	path = Automate
+	url = https://github.com/AdamBenAlaya/Automate.git
